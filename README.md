@@ -9,5 +9,5 @@
 - [ソースコード（GitHub）](https://github.com/tanuki276/Python-Runtime)
 
 ## Wi-Fi速度テスト
-- [テストサイト](https://apps-henna-zeta.vercel.app/)
+- [サイト](https://apps-henna-zeta.vercel.app/)
 - [ソースコード（GitHub）](https://github.com/tanuki276/apps)
