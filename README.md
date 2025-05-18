@@ -11,3 +11,5 @@
 ## Wi-Fi速度テスト
 - [サイト](https://apps-henna-zeta.vercel.app/)
 - [ソースコード（GitHub）](https://github.com/tanuki276/apps)
+- [その他]
+（https://apk-download-tau.vercel.app/）
